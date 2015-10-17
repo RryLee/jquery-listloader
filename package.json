@@ -1,0 +1,21 @@
+{
+  "name": "jquery-listloader",
+  "version": "0.0.4",
+  "description": "simple jquery ajax list loader.",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RryLee/jquery-listloader"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RryLee <rrylee1994@gmail.com> (http://rrylee.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "keywords": [
+    "list",
+    "loader"
+  ]
+}
